@@ -1,63 +1,83 @@
-# 👋 Hi there, I'm Sri Karthikeya Reddy Karri!
+# 👋 Hey there, Adventurer! I'm **Sri Karthikeya Reddy Karri** 🧑‍💻
 
-🎓 **Computer Science Student** | 💻 **Software Engineer Intern at Prolifics, Hyderabad**  
-📍 Based in India | 5th Semester B.Tech CSE @ SRM Institute of Science and Technology, Chennai
+🎓 **Computer Science Student** | 💻 **Software Engineer Intern @ Prolifics, Hyderabad**  
+📍 **Based in India** | 5th Semester B.Tech CSE @ SRM Institute of Science and Technology, Chennai  
+
+![Profile Views](https://komarev.com/ghpvc/?username=SriKarthikeyaReddyKarri&color=blue&style=flat-square)  
+![GitHub followers](https://img.shields.io/github/followers/SriKarthikeyaReddyKarri?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/SriKarthikeyaReddyKarri?style=social)
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate and curious Computer Science student, currently interning as a Software Engineer at Prolifics. My journey so far has been driven by a love for problem-solving, building impactful solutions, and continuously learning new technologies. I thrive in collaborative environments and enjoy exploring the intersections of AI, ML, and modern web development.
+🌟 A passionate explorer in the tech realm, fueled by **curiosity** and a love for solving problems.  
+💡 I thrive on challenges, crafting impactful solutions, and leveling up my knowledge in **AI, ML, and modern web development**.  
+🤝 Always open to **collaborations, hackathons, and new adventures** in coding!  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skill Tree 🕹️
 
 **Languages:**  
-C, C++, Java, Python, JavaScript, HTML, CSS, SQL
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-**Frameworks:**  
-React, SPFx (SharePoint Framework)
+**Frameworks & Tools:**  
+React ⚛️ | SPFx 🏢 | Git 🌱 | VS Code ✨ | SharePoint 📂  
 
-**Tools:**  
-Git, Visual Studio Code, SharePoint
-
-**Core Concepts:**  
-- Data Structures & Algorithms (DSA)  
-- Database Management Systems (DBMS)  
-- Artificial Intelligence (AI) & Machine Learning (ML)  
-- Object-Oriented Programming (OOP)
-
----
-
-## 🌟 Highlighted Projects
-
-### **CB Approval**
-* Developed an internal approval management tool at Prolifics using React and SPFx.
-* Built modular UI components, implemented workflow logic for approval states, and handled SharePoint integration.
-* Leveraged React hooks and REST APIs for dynamic data handling.
-
-### **Coffee Shop Website**
-* Designed and developed a static, responsive website using HTML and CSS.
-
-### **Clothing Brand Website**
-* Built an interactive, multi-page site with animations using HTML, CSS, and JavaScript.
+**Core Concepts (XP):**  
+- 🎯 DSA (Level 85/100)  
+- 🗄️ DBMS (Level 70/100)  
+- 🤖 AI & ML (Level 65/100)  
+- 🏗️ OOP (Level 90/100)  
 
 ---
 
-## 📫 Connect with Me
+## 🌟 Quest Log (Projects)
 
-- [LinkedIn](https://linkedin.com/in/sri-karthikeya-reddy-karthikeya)
-- **Email:** karthikeya271205@gmail.com
-- **Phone:** +91 7386777958
+### 🏆 **CB Approval**
+🔹 Built an internal approval management tool @ Prolifics.  
+🔹 Crafted modular React UI, integrated workflows, and handled SharePoint APIs.  
+🔹 Used **React hooks + REST APIs** like a pro.  
+
+### ☕ **Coffee Shop Website**  
+Static & responsive site brewed with **HTML + CSS**.  
+
+### 👕 **Clothing Brand Website**  
+Interactive multi-page website with **animations & JavaScript magic**.  
 
 ---
 
-## 🌱 Fun Fact & Hobbies
+## 🏅 GitHub Achievements & Stats  
 
-- Explored the core concepts of Agentic AI with senior engineers during my internship.
-- **Hobbies:** Traveling, Video Filming and Editing
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriKarthikeyaReddyKarri&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriKarthikeyaReddyKarri&layout=compact&theme=tokyonight)  
+![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriKarthikeyaReddyKarri&show_icons=true&theme=radical)
 
 ---
 
-_Always eager to collaborate, learn, and contribute to exciting projects!_
+## 🌱 Fun Facts & Side Quests  
+
+🎮 **Did You Know?**  
+- I once explored the core concepts of **Agentic AI** with senior engineers during my internship.  
+- I love **traveling, video filming, and editing**, and I sometimes imagine life like a movie reel 🎬.  
+- My debugging motto: _“If it compiles, we try. If it runs, we fly 🚀.”_  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-karthikeya-reddy-karthikeya)  
+📧 **Email:** karthikeya271205@gmail.com  
+📱 **Phone:** +91 7386777958  
+
+---
+
+_⚡ Always eager to **collaborate, learn, and embark on epic coding quests**!_ 🎯
